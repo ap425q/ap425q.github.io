@@ -17,4 +17,22 @@ I couldn't believe it—I had just passed my first cybersecurity certification! 
 We will go through my entire journey of preperation and multiple resources i used that helped me pass the exam.
 
 # OSED Overview
+TODO
 
+# My Background
+TODO
+
+# How I prepared for the Exam 
+TODO
+# The Exam
+TODO
+# Extra Resources
+TODO
+# The Community
+TODO
+
+# Conclusion
+TODO
+
+# What Next !?
+TODO
