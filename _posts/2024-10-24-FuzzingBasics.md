@@ -1,6 +1,6 @@
 ---
 title:  "Fuzzing 101"
-published: true
+published: false
 tag: Security
 category: Exploit Development
 ---
