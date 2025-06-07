@@ -95,3 +95,5 @@ To conclude my final thoughts, OSED is great if you want to start your vulnerabi
 ## What Next !?
 
 After completing this certification, I plan to dive deeper into advanced topics like kernel exploitation and start hunting vulnerabilities in modern software using the skills I've gained along the way. On top of that, I'm currently preparing for the PNPT exam to further expand my knowledge of Active Directory(PS : I passed PNPT on Dec 28, 2024 😁)
+
+{% include comment.html %}
