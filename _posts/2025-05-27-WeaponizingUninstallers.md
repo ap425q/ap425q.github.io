@@ -103,7 +103,7 @@ Now, when a user clicks “Uninstall” from the Control Panel/Add or Remove Pro
 
 ![Demo](../images/Demo.gif)
 
-And No matter which payload I used, VirusTotal consistently showed 0/72 detections.
+And No matter which payload I used (Even the malicious one's), VirusTotal consistently showed 0/72 detections.
 
 ![Virustotal](../images/Virustotal.png)
 ## Conclusion
