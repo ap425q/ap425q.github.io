@@ -16,7 +16,7 @@ timezone:
 
 title: Amey Pathak # the main title
 
-tagline: OSED | PNPT | Security Researcher  # it will display as the sub-title
+tagline: Security Researcher  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog about my journey in the field of cybersecurity, where I share my experiences, insights, and knowledge on various topics related to Security Research, Exploit Development, Reverse Engineering and Penetration testing.
